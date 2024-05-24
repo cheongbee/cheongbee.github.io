@@ -1,7 +1,6 @@
 ﻿<!DOCTYPE html>
 <html>
 <head>
-    <title>청비네 아지트</title>
 </head>
 <body>
     <h1>청비네에 어서오세요 ^_^</h1>
